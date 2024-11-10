@@ -74,3 +74,5 @@ Options:
 
 Disclaimer
 WARNING: This script is intended for educational and research purposes only. Performing a DoS attack on networks or servers without explicit permission is illegal and unethical. Always ensure that you have authorization before testing any system.
+
+Author: xrl3y
