@@ -41,7 +41,7 @@ To use the script, follow these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Automatic-DOS.git
+git clone https://github.com/xrl3y/Automatic-DOS.git
 cd Automatic-DOS
 ```
 Make the script executable:
