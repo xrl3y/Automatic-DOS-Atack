@@ -62,17 +62,52 @@ Example:
 
 Options:
 
--i <IP_address_or_domain>: Specify the target IP address or domain name.
+- i <IP_address_or_domain>: Specify the target IP address or domain name.
 
--p <port>: Specify the target port (default is 80).
+- p <port>: Specify the target port (default is 80).
 
--t <type>: Specify the type of attack (syn, udp, icmp, or all).
+- t <type>: Specify the type of attack (syn, udp, icmp, or all).
 
--I <interval>: Specify the interval between packets in microseconds (optional).
+- I <interval>: Specify the interval between packets in microseconds (optional).
 
--h: Display help information.
+- h: Display help information.
 
-Disclaimer
+# Disclaimer 🛑
+
+⚠️ **Warning:** This content is for educational purposes only.
+
+This repository and its contents are provided for educational, research, and learning purposes only.
+
+- The material shown — including scripts, commands, and examples — is intended to demonstrate concepts and techniques in a controlled and authorized environment.
+
+- Do not use this material to perform illegal, unauthorized, or harmful activities against networks, systems, or people.
+
+The author accepts no responsibility for any damage, loss, misuse, unauthorized access, legal consequences, or incidents that result from the use of this content. By using this material you agree that you do so at your own risk and that you have the necessary permissions to test or run the procedures described here.
+
+- If you plan to practice on a network or device you do not own, obtain explicit written permission from the owner before proceeding.
+
+## Recommendations
+
+- Use isolated lab environments (virtual machines, test networks) for experimentation.
+
+- Respect applicable laws and your organization’s policies.
+
+- If you have legal or ethical doubts, consult a qualified professional.
+
+
+---
+
+## Author
+
+This project was developed by **xrl3y**.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 WARNING: This script is intended for educational and research purposes only. Performing a DoS attack on networks or servers without explicit permission is illegal and unethical. Always ensure that you have authorization before testing any system.
 
 Author: xrl3y
